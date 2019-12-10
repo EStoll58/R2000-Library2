@@ -16,4 +16,3 @@ MaxRange=2000;                  // Setting max background distnace for data
 HMIDisplayType=static_text;           //What would you like the R2000 to display; static_logo, static_text, off
 HMIDisplayText1=Hello;        //If text was chosen for display type, enter in text for the top line. 30 character max.
 HMIDisplayText2=World!;       //If text was chosen for display type, enter in text for the bottom line. 30 character max. 
-
